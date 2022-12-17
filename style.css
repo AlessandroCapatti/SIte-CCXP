@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    max-width: none;
+    background-color: #FFD900;
+    margin-bottom: 0px;
+  
+}
+footer {
+    width: 100%;
+    display: flex;
+}
+img {
+    width: 200px;
+    padding: 10px 0px;      
+}
+#logo {
+    margin-left: 50px;
+}
+.info {
+    
+    color: white;
+    text-align: center;
+    background-color: #514988;
+    margin-top: 0px;
+  
+}
+.info h1 {
+    margin-top: 20px;
+    font-size: 400%;
+    text-align: center;
+    color: #FFD900;
+}
+.info h2 {
+    margin-top: 20px;   
+    text-align: center;   
+}
+.info p {
+    margin: 60px;
+    font-size: 170%;
+    align-items: center;
+    text-align: center;
+}
+.container {
+    display: grid;
+    grid-template-columns: 50% auto;
+    height: 589px;
+ }
+ 
+.timer {      
+    padding: 10px;
+    height: 20px;
+    color: #514988;   
+}
+.timer h1 { 
+    align-items: center;
+    margin-left: 30px;
+    font-size: 300%;
+    display: inline;
+    
+}
+.timer h2 {
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    color: #E33881;
+}
+.cards {
+    width: 100%;
+    padding: 10px 20px;
+    display: inline-block;
+
+}
+.cards h2 {
+    margin-left: 50px;
+    margin-bottom: 10px;
+    color: #F3C61F;
+    
+}
+section h2 {  
+    width: 100%;    
+    color: #FFD900;
+    margin-left: 15px; 
+}
+section{
+    display: grid;
+    grid-template-columns: 50% auto;
+    width: 100%;
+    margin-top: 10px;
+}
+button{    
+    font-size: 42px;
+    color: white;
+    background-color: #514988;
+    border: none;
+    border-radius: 20px;
+    width: 500px;
+    height: 100px;
+}
+button:hover{    
+    background: #514988;
+    cursor: pointer;
+    color: #FFD900;
+}
+.botao {
+    text-align: center;
+    margin-left: 10px;
+    padding: 100px;    
+    display: inline-block;
+}
+video {
+    width: 100%;
+}
+ .contagem {
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+
+} 
+
+
+
+
