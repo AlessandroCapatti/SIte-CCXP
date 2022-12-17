@@ -1,2 +1,2 @@
 "NESTE PROJETO FOI CRIADO UM SITE PARA CCXP"
-https://ornate-pothos-b87dad.netlify.app/
+https://delicate-tulumba-fd6112.netlify.app/
